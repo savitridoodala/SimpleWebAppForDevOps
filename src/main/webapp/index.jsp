@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2><%= "Hello Devops Learner!" %></h2>
+<h2><%= "Hello Devops New Learner!" %></h2>
 </body>
 </html>
